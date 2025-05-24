@@ -1,6 +1,8 @@
 # domir
 Dominance analysis methods Use domir With (In) R Software
 
+https://www.youtube.com/watch?v=hGJp2UPJSEQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
